@@ -1,0 +1,11 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                              Pratos                                                                                 |
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Pode procurar pratos por numero do concorrente, nome do prato, tipo, regiao, tempo de execucao, 
+duelo (inserir ano) ou ver todos ("Numero"/"Nome"/"Tipo"/"Regiao"/"Tempo"/"Duelo"/"Todos"):
+
+Insira no campo o dado com o qual pretende procurar e pressione OK
+
+
+

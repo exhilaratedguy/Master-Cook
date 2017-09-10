@@ -1,0 +1,8 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                              Pratos                                                                                 |
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Pode procurar pratos por tipo, regiao, tempo de execucao, edicao ou ver todos:
+
+Insira no campo o dado com o qual pretende procurar e pressione OK
+Para ver todos apenas clique OK ou opcao 1

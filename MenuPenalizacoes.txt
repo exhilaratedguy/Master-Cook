@@ -1,0 +1,10 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                               Penalizacoes                                                                    |
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Pode procurar penalizacoes por numero de concorrente.
+
+Insira no campo o numero do concorrente cujas penalizacoes pretende procurar e pressione OK
+
+
+

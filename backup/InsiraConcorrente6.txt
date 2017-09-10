@@ -1,0 +1,31 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                       Novo Concorrente 6                                                                             |
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Dados do concorrente a inserir:
+
+Nome: 
+
+Idade: 
+
+Numero: 
+
+Prato #1 - Nome:
+	   Tipo:
+	   Regiao: 
+	   Tempo de execucao: 
+
+Prato #2 - Nome:
+	   Tipo:
+	   Regiao: 
+	   Tempo de execucao: 
+
+Prato #3 - Nome:
+	   Tipo:
+	   Regiao: 
+	   Tempo de execucao: 
+
+Prato #4 - Nome:
+	   Tipo:
+	   Regiao: 
+	   Tempo de execucao: 

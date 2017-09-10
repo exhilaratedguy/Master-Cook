@@ -1,0 +1,11 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                        Concorrentes                                                                          |
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Pode procurar concorrentes por nome, numero, idade, edicao ou 
+ver todos ("Nome"/"Numero"/"Idade"/"Edicao"/"Todos"):
+
+Insira no campo o dado com o qual pretende procurar e pressione OK
+
+
+

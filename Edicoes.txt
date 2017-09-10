@@ -1,0 +1,3 @@
+ANO | CIDADE | PESO CHEF
+
+2017;Funchal;0.2

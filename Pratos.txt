@@ -1,0 +1,34 @@
+﻿NUMERO DO CONCORRENTE | NOME DO PRATO | TIPO | REGIÃO | TEMPO | TEMPO USADO | DUELO | NOTA
+
+6;Espetada Com Milho;Carnes;Madeira;400.00;399.00;0;5.00
+6;Frango Assado;Carnes;Lisboa;500.00;400.00;0;9.00
+6;Polvo;Peixe;Algarve;500.00;500.00;0;7.00
+6;BigMac;Sandes;s;3.00;70.00;1;0.00
+7;BigMac;Sandes;s;3.00;70.00;1;10.00
+7;Bitoque;Carnes;Porto;15.00;17.00;0;6.50
+7;Kebab;Misto;Turquia;10.00;9.00;0;3.70
+7;Lasanha De Peixe;Peixe;Itália;20.00;20.00;0;8.00
+8;Francesinha;Carnes;Porto;400.00;23.00;1;10.00
+8;Lasanha De Carne;Carnes;Itália;23.00;24.00;0;5.60
+8;Língua De Vaca Estufada;Carnes;Portugal;25.00;13.00;0;9.00
+8;Pescada Assada;Peixe;Madeira;14.00;18.00;0;4.50
+10;CheeseBurger;Sandes;McDonalds;50.00;14.00;1;0.00
+10;Dourada Grelhada;Peixe;Portugal;28.00;24.00;0;6.50
+10;Frango de Fricassé;Carnes;França;17.00;17.00;0;4.50
+10;Sopa De Trigo;Sopa;Madeira;18.00;18.00;0;8.00
+11;Bacalhau À Brás;Peixe;Madeira;600.00;500.00;0;7.00
+11;CheeseBurger;Sandes;McDonalds;50.00;30.00;1;10.00
+11;Massa Com Atum;Peixe;Porto Santo;300.00;200.00;0;3.00
+11;Picado Com Batata;Carnes;Madeira;700.00;500.00;0;9.00
+15;Bifes De Atum De Cebolada;Peixe;Algarve;39.00;23.00;0;9.00
+15;Chicken Nuggets;Carnes;McDonalds;40.00;23.00;1;0.00
+15;Salada Russa;Misto;Rússia;19.00;13.00;0;7.20
+15;Salmão Grelhado;Peixe;Portugal;13.00;16.00;0;4.50
+18;Arroz De Pato;Carnes;Alentejo;700.00;500.00;0;3.00
+18;Dourada Com Arroz;Peixe;Algarve;300.00;400.00;0;4.00
+18;Francesinha;Carnes;Porto;400.00;600.00;1;0.00
+18;Ovo Mexido Com Bacon;Misto;Porto;500.00;600.00;0;7.00
+19;Camarão Com Lapas;Marisco;Açores;400.00;500.00;0;10.00
+19;Carne Porco;Carnes;VianaDoCastelo;400.00;500.00;0;0.00
+19;Chicken Nuggets;Carnes;McDonalds;40.00;20.00;1;10.00
+19;Lagosta;Marisco;Açores;200.00;200.00;0;2.00

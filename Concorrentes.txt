@@ -1,0 +1,10 @@
+NUMERO | NOME | IDADE | SEXO | EDIÇÃO | NOTA TOTAL
+
+6;Mulher Lima;19;feminino;2017;8.0
+7;Marco Lima;19;masculino;2017;8.0
+8;Diogo Nobrega;19;masculino;2017;9.5
+10;Francisco Teixeira;21;masculino;2017;7.25
+11;Mulher Teixeira;21;feminino;2017;9.5
+15;Diogo Cruz;20;masculino;2017;8.1
+18;Mulher Nobrega;19;feminino;2017;4.4
+19;Mulher Cruz;20;feminino;2017;5.0

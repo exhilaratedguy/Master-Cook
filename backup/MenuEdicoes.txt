@@ -1,0 +1,8 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------
+|                                                                               Edicoes                                                                             |
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Pode procurar edicoes por ano, cidade ou ver todas:
+
+Insira no campo o dado com o qual pretende procurar e pressione OK
+Para ver todas apenas clique OK ou opcao 1

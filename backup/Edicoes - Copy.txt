@@ -1,0 +1,12 @@
+| ANO | CIDADE |
+
+;2013;Porto;
+;2014;Viseu;
+;2015;Setubal;
+;2016;Lisboa;
+;2017;Funchal;
+;2017;Machico;
+
+;2010;Faro;
+
+;2011;Braga;
